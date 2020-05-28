@@ -15,3 +15,4 @@ POC code to select an image and classify it using the pre-trained ResNet-50 mode
 * TensorFlow
 * NumPy
 * Python Imaging Library
+* PyQt5
